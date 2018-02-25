@@ -1,4 +1,6 @@
 # Batcam
 An open-source bat detaction system for RaspberryPi
 
-## ToDo:
+## To do list
+
+* Motion detection
